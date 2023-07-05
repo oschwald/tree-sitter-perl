@@ -10,7 +10,6 @@ package-lock.json
 *.o
 bindings/c/*.h
 /Cargo.toml
-src/*
 tree-sitter-perl.wasm
 binding.gyp
 log.html
